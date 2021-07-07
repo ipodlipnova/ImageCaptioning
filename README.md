@@ -3,7 +3,7 @@
 This repository is a final project of the second semester of Deep Learning School (DLS) course by MIPT.
 
 ## Implementation
-The implementation according to given base script can be found in [Jupyer Notebook]()
+The implementation according to given base script can be found in [Jupyter Notebook](https://github.com/ipodlipnova/ImageCaptioning/blob/main/Image_Captioning_Irina_Podlipnova.ipynb)
 All necessary comments according to implementation can be found in this notebook.
 
 The Telegram Bot was also implemented to show functionality.
