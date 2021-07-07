@@ -1,0 +1,7 @@
+aiogram
+torch
+torchvision
+numpy
+matplotlib
+opencv-python
+scipy
